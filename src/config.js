@@ -95,7 +95,7 @@ export const config = {
       title: "Predictive Engagement Engine",
       category: "AI / ML",
       technologies: "Python, Scikit-Learn, Pandas, Data Engineering",
-      image: "/images/eie.png",
+      image: "/images/predictive.png",
       description:
         "Machine learning models engineered to track and predict user engagement patterns across digital ecosystems using data analysis.",
       repoUrl: "https://github.com/patilpreetviia-netizen/predictive-engine",
